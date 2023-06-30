@@ -1,0 +1,60 @@
+body{
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+
+    /* background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d); */
+
+}
+
+.container{
+       width:860px;
+       /* height: 160px; */
+        padding:10px; 
+       /* margin :100px; */
+       text-align: center; 
+       /* background-color:rgb(12, 122, 117); */
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d); 
+       
+        /* margin-left: 46%; */
+        margin-bottom: 19%;
+        margin: top 5px;;
+        margin-left: 210px;
+        object-position: top;
+        
+       /* margin-bottom:700px; */
+       border-radius: 20px;
+       /* border-end-end-radius: 20px;      
+       border-end-start-radius: 20px; */
+}
+input{
+    width:240px;
+    border:2px solid rgb(112, 212, 212) ;
+    height:25px;
+    color: #111010;
+}
+button{
+    width:70px;
+    height:31px ;
+    background-color: rgb(63, 63, 131);
+    cursor: pointer;
+    color:white;
+}
+.text ul{
+     position: relative;
+     /* background-color: rgb(8, 29, 29); */
+     background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+     color: white;
+     font-size:17px;
+     text-align:left;
+     padding: 7px;
+     text-align:center;
+     width:190px ;
+     margin-left: 270px;
+     height: 17px;
+     text-align: left;
+     padding-left: 50px;
+}
+.text ul img{
+    position:absolute;
+    right:10px;
+    cursor: pointer;
+}
